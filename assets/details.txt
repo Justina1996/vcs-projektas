@@ -1,0 +1,13 @@
+Ikonos:
+info-circle <i class="fas fa-info-circle"></i>
+bars <i class="fas fa-bars"></i>
+Spalvos:
+gelsva sviesi: bea67c
+gelsva tamsi: a9946e
+balta: ffffff
+juoda: 010101
+pilka: 636262
+Sriftai:
+Quattrocento Sans 
+<link href="https://fonts.googleapis.com/css?family=Quattrocento+Sans&display=swap" rel="stylesheet">
+font-family: 'Quattrocento Sans', sans-serif;
